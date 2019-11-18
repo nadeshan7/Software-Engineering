@@ -11,3 +11,11 @@ Git
 ----
 1.Configure
 2.Clone
+
+Designing
+===================
+UML designing:
+--------------
+1.Activity diagam
+2.Use case diagram
+3.Sequence diagram
